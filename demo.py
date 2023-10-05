@@ -1,3 +1,4 @@
+
 print("Demo of basic data types:Numbers")
 x=3
 y=2.5
